@@ -1,0 +1,3 @@
+2020-03-03 14:32:08,871  INFO [main] Log4jDemo:17 - URL Launched
+2020-03-03 14:32:08,889  WARN [main] Log4jDemo:24 - Check Title
+2020-03-03 14:32:08,890  INFO [main] Log4jDemo:29 - The URL is correct
